@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there, I'm JunYong 👋 
+
+## 🙋‍♂️ About Me
+- 🔭 I’m currently studying **Backend Development & Algorithms**
+- 🌱 I’m currently learning **Java, Spring Boot
+
+## 📈 Algorithm Studies
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kim0607mi)](https://solved.ac/kim0607mi) <img src="http://mazandi.herokuapp.com/api?handle={kim0607mi}&theme=warm"/>
 
 <!--
 **jxnyxng/jxnyxng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
