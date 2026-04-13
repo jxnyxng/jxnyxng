@@ -20,8 +20,8 @@
 
 ## 📈 Algorithm Studies
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kim0607mi)](https://solved.ac/kim0607mi) 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=kim0607mi&theme=warm)
- 
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=kim0607mi&theme=dark)
+
 # :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kim0607mi@gmail.com)](mailto:kim0607mi@gmail.com)
 
