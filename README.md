@@ -1,8 +1,10 @@
+<div align="center">
+ 
 ## Hi there, I'm JunYong 👋 
 
 ## 🙋‍♂️ About Me
-- 🔭 I’m currently studying **Backend Development & Algorithms**
-- 🌱 I’m currently learning **Java, Spring Boot
+🔭 I’m currently studying **Backend Development & Algorithms** <br>
+🌱 I’m currently learning **Java, Spring Boot
 
 ## 💪Skills
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
@@ -22,3 +24,5 @@
  
 # :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kim0607mi@gmail.com)](mailto:kim0607mi@gmail.com)
+
+</div>
