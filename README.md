@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 🔭 I’m currently studying **Backend Development & Algorithms** <br>
-🌱 I’m currently learning **Java, Spring Boot
+🌱 I’m currently learning **Java, Spring Boot**
 
 ## 💪Skills
 
