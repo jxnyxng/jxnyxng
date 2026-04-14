@@ -1,6 +1,6 @@
+
 <div align="center">
- 
-## Hi there, I'm JunYong 👋 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=80&section=header&text=Hi%20there,%20I'm%20JunYong%20👋&fontSize=30&fontColor=#FFFFFF"/>
 
 ## 🙋‍♂️ About Me
 🔭 I’m currently studying **Backend Development & Algorithms** <br>
@@ -33,7 +33,6 @@
   
 ## 📈 Algorithm Studies
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kim0607mi)](https://solved.ac/kim0607mi) 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=kim0607mi&theme=dark)
 
 # :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kim0607mi@gmail.com)](mailto:kim0607mi@gmail.com)
