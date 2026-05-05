@@ -2,10 +2,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=80&section=header&text=Hi%20there,%20I'm%20JunYong%20👋&fontSize=30&fontColor=#FFFFFF"/>
 
-## 🙋‍♂️ About Me
-🔭 I’m currently studying **Backend Development & Algorithms** <br>
-🌱 I’m currently learning **Java, Spring Boot**
-
 ## 💪Skills
 
 <div align=center> 
