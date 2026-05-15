@@ -20,6 +20,9 @@
   <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
   <br>
   
+  <img src="https://img.shields.io/badge/futter-1572C6?style=for-the-badge&logo=flutter&logoColor=white">
+  <br>
+  
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
   <br>
   
