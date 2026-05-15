@@ -2,7 +2,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=80&section=header&text=Hi%20there,%20I'm%20JunYong%20👋&fontSize=30&fontColor=#FFFFFF"/>
 
-## 💪Skills
+## Skills
 
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
   
-## 📈 Algorithm Studies
+## Algorithm Studies
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kim0607mi)](https://solved.ac/kim0607mi) 
 
 # :mailbox_with_mail: Contacts
