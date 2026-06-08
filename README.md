@@ -1,7 +1,4 @@
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=80&section=header&text=Hi%20there,%20I'm%20JunYong%20👋&fontSize=30&fontColor=#FFFFFF"/>
-
 ## ⚒️ Skills
 
 <div align=center> 
@@ -33,7 +30,3 @@
 ## Algorithm Studies
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kim0607mi)](https://solved.ac/kim0607mi) 
 
-# :mailbox_with_mail: Contacts
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kim0607mi@gmail.com)](mailto:kim0607mi@gmail.com)
-
-</div>
