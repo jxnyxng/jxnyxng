@@ -44,8 +44,8 @@
       <a href="https://solved.ac/kim0607mi">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kim0607mi" alt="Solved.ac프로필" width="95%">
       </a><hr>
-      <p>🥇 <strong>2026 SW알고리즘 경진대회</strong><br>우수상</p>
-      <p>🥉 <strong>2024 SW알고리즘 경진대회</strong><br>장려상</p>
+      <p>🥇 <strong>2026 교내 SW알고리즘 경진대회</strong><br>우수상</p>
+      <p>🥉 <strong>2024 교내 SW알고리즘 경진대회</strong><br>장려상</p>
     </td>
   </tr>
 </table>
