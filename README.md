@@ -2,7 +2,7 @@
   <tr>
   <td valign="top" width="45%">
     <h3 align="center">👤 About Me</h3><hr>
-    <p><strong>&nbsp;&nbsp;&nbsp;&nbsp;👤&nbsp;&nbsp;김준용</strong></p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;👤&nbsp;&nbsp;김준용</p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;🎓&nbsp;&nbsp;국립공주대학교 소프트웨어학과 (4학년 재학중)</p>
     <hr>
     <p align="center">📋 <strong>Certifications</strong></p>
