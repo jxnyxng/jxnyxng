@@ -7,13 +7,13 @@
         🎓 공주대학교 소프트웨어학과
       </p>
       <hr>
-      <p>📋 <strong>Certifications</strong></p>
+      <p align="center">📋 <strong>Certifications</strong></p>
       <ul>
         <li>정보처리기사</li>
         <li>TOPCIT Lv.3 (625점)</li>
       </ul> 
       <hr>
-      <p>📬 <strong>Contact</strong></p>
+      <p align="center">📬 <strong>Contact</strong></p>
       <div align="center">
         <a href="mailto:kim0607mi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
         <a href="https://kim0607mi.tistory.com/"><img src="https://img.shields.io/badge/Blog-FFFFFF?style=flat-square&logo=tistory&logoColor=orange"></a>
