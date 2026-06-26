@@ -3,11 +3,11 @@
   <td valign="top" width="38%">
     <h3 align="center">👤 About Me</h3><hr>
     <p><strong>&nbsp;&nbsp;&nbsp;&nbsp;👤&nbsp;&nbsp;김준용</strong></p>
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;🎓&nbsp;&nbsp;국립공주대학교 소프트웨어학과(재학)</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;🎓&nbsp;&nbsp;국립공주대학교 소프트웨어학과 (4학년 재학중)</p>
     <hr>
     <p align="center">📋 <strong>Certifications</strong></p>
     <ul>
-      <li>정보처리기사 (26년 1회) - 한국산업인력공단</li>
+      <li>정보처리기사 (26년 1회) - 한국산업인력공단(HRDK)</li>
       <li>TOPCIT 625점(Lv.3) - 정보통신기획평가원(IITP)</li>
     </ul> 
     <hr>
