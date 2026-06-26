@@ -1,13 +1,13 @@
 <table align="center">
   <tr>
-  <td valign="top" width="45%">
+  <td valign="top" width="40%">
     <h3 align="center">👤 About Me</h3><hr>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;👤&nbsp;&nbsp;김준용</p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;🎓&nbsp;&nbsp;국립공주대학교 소프트웨어학과 (4학년 재학중)</p>
     <hr>
     <p align="center">📋 <strong>Certifications</strong></p>
     <ul>
-      <li>정보처리기사 (26년 1회) - 한국산업인력공단(HRDK)</li>
+      <li>정보처리기사 - 한국산업인력공단(HRDK)</li>
       <li>TOPCIT 625점(Lv.3) - 정보통신기획평가원(IITP)</li>
     </ul> 
     <hr>
@@ -39,7 +39,7 @@
       <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
       <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
     </td>
-    <td valign="top" width="25%" align="center">
+    <td valign="top" width="30%" align="center">
       <h3>🏆 Algorithm</h3><hr>
       <a href="https://solved.ac/kim0607mi">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kim0607mi" alt="Solved.ac프로필" width="95%">
