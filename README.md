@@ -1,26 +1,26 @@
 <table align="center">
   <tr>
-    <td valign="top" width="30%">
-      <h3 align="center">👤 About Me</h3>
-      <p align="center">
-        <strong>김준용</strong><br>
-        🎓 공주대학교 소프트웨어학과
-      </p>
-      <hr>
-      <p align="center">📋 <strong>Certifications</strong></p>
-      <ul>
-        <li>정보처리기사</li>
-        <li>TOPCIT Lv.3 (625점)</li>
-      </ul> 
-      <hr>
-      <p align="center">📬 <strong>Contact</strong></p>
-      <div align="center">
-        <a href="mailto:kim0607mi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
-        <a href="https://kim0607mi.tistory.com/"><img src="https://img.shields.io/badge/Blog-FFFFFF?style=flat-square&logo=tistory&logoColor=orange"></a>
-      </div> 
-    </td>
-    <td valign="top" width="35%" align="center">
-      <h3>🛠️ Tech Skills</h3>
+  <td valign="top" width="38%">
+    <h3 align="center">👤 About Me</h3><hr>
+    <p><strong>&nbsp;&nbsp;&nbsp;&nbsp;👤&nbsp;&nbsp;김준용</strong></p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;🎓&nbsp;&nbsp;국립공주대학교 소프트웨어학과(재학)</p>
+    <hr>
+    <p align="center">📋 <strong>Certifications</strong></p>
+    <ul>
+      <li>정보처리기사 (26년 1회) - 한국산업인력공단</li>
+      <li>TOPCIT 625점(Lv.3) - 정보통신기획평가원(IITP)</li>
+    </ul> 
+    <hr>
+    <p align="center">📬 <strong>Contact</strong></p>
+    <div align="center">
+      <a href="mailto:kim0607mi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+      <a href="https://kim0607mi.tistory.com/"><img src="https://img.shields.io/badge/tistory-FFFFFF?style=flat-square&logo=tistory&logoColor=orange"></a>
+    </div> 
+    <br>
+  </td>
+    <td valign="top" width="30%" align="center">
+      <h3>🛠️ Skills</h3><hr>
+      <br><br>
       <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
       <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
       <br>
@@ -39,12 +39,11 @@
       <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
       <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
     </td>
-    <td valign="top" width="35%" align="center">
-      <h3>🏆 Algorithm</h3>
+    <td valign="top" width="25%" align="center">
+      <h3>🏆 Algorithm</h3><hr>
       <a href="https://solved.ac/kim0607mi">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kim0607mi" alt="Solved.ac프로필" width="95%">
-      </a>
-      <br><br>
+      </a><hr>
       <p>🥇 <strong>2026 SW알고리즘 경진대회</strong><br>우수상 (교내 1등)</p>
       <p>🥉 <strong>2024 SW알고리즘 경진대회</strong><br>장려상 (교내 5등)</p>
     </td>
