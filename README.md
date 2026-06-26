@@ -1,6 +1,6 @@
 <table align="center">
   <tr>
-  <td valign="top" width="40%">
+  <td valign="top" width="45%">
     <h3 align="center">👤 About Me</h3><hr>
     <p><strong>&nbsp;&nbsp;&nbsp;&nbsp;👤&nbsp;&nbsp;김준용</strong></p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;🎓&nbsp;&nbsp;국립공주대학교 소프트웨어학과 (4학년 재학중)</p>
@@ -39,7 +39,7 @@
       <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
       <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
     </td>
-    <td valign="top" width="30%" align="center">
+    <td valign="top" width="25%" align="center">
       <h3>🏆 Algorithm</h3><hr>
       <a href="https://solved.ac/kim0607mi">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kim0607mi" alt="Solved.ac프로필" width="95%">
