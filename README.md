@@ -18,7 +18,7 @@
     </div> 
     <br>
   </td>
-    <td valign="top" width="29%" align="center">
+    <td valign="top" width="28%" align="center">
       <h3>🛠️ Skills</h3><hr>
       <br><br>
       <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -39,7 +39,7 @@
       <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
       <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
     </td>
-    <td valign="top" width="29%" align="center">
+    <td valign="top" width="30%" align="center">
       <h3>🏆 Algorithm</h3><hr>
       <a href="https://solved.ac/kim0607mi">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kim0607mi" alt="Solved.ac프로필" width="95%">
