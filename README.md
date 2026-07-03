@@ -6,7 +6,7 @@
     <hr> 
     <p align="center">📋 <strong>Certifications</strong></p>
     <ul>
-      <li>정보처리기사 - 한국산업인력공단(HRDK)</li>
+      <li>정보처리기사 (취득) - 한국산업인력공단(HRDK)</li>
       <li>TOPCIT 625점(Lv.3) - 정보통신기획평가원(IITP)</li>
     </ul> 
     <hr>
@@ -29,8 +29,8 @@
       <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
       <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
       <br>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"> 
       <img src="https://img.shields.io/badge/flutter-1572C6?style=for-the-badge&logo=flutter&logoColor=white">
-      <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
       <br>
       <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
       <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
