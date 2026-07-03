@@ -5,10 +5,10 @@
     <img src="https://capsule-render.vercel.app/api?type=soft&color=FDFBF6&height=150&section=header&text=Hello!%20👋%20I'm%20JunYong&fontSize=55&fontColor=#36454F"/>
     <hr> 
     <p align="center">📋 <strong>Certifications</strong></p>
-    <ul>
-      <li>정보처리기사 (취득) - 한국산업인력공단(HRDK)</li>
-      <li>TOPCIT 625점(Lv.3) - 정보통신기획평가원(IITP)</li>
-    </ul> 
+    <p align="center">
+        🪪  정보처리기사 - 한국산업인력공단(HRDK) <br>
+        📈  TOPCIT 625점(Lv.3) - 정보통신기획평가원(IITP)
+    </p>
     <hr>
     <p align="center">📬 <strong>Contact</strong></p>
     <div align="center">
@@ -18,8 +18,8 @@
     </div> 
     <br>
   </td>
-    <td valign="top" width="30%" align="center">
-      <h3>🛠️ Skills</h3><hr>
+    <td valign="top" width="27%" align="center">
+      <h3>🛠️ Skills</h3><hr><br>
       <br><br>
       <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"> 
       <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
@@ -39,13 +39,16 @@
       <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
       <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
     </td>
-    <td valign="top" width="30%" align="center">
-      <h3>🏆 Algorithm</h3><hr>
+    <td valign="top" width="33%" align="center">
+      <h3>⚙️ Algorithm</h3><hr>
       <a href="https://solved.ac/kim0607mi">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kim0607mi" alt="Solved.ac프로필" width="95%">
       </a><hr>
-      <p>🥇 <strong>2026 교내 SW알고리즘 경진대회</strong><br>우수상</p>
-      <p>🥉 <strong>2024 교내 SW알고리즘 경진대회</strong><br>장려상</p>
+      <p align="center"> 🏆 <strong>Achievements</strong></p>
+      <p align="center">
+        🥇 <strong>2026</strong> 교내 SW알고리즘경진대회 우수상 <br>
+        🥉 <strong>2024</strong> 교내 SW알고리즘경진대회 장려상
+      </p>
     </td>
   </tr>
 </table>
