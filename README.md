@@ -2,9 +2,8 @@
   <tr>
   <td valign="top" width="42%">
     <h3 align="center">👤 About Me</h3><hr>
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;👤&nbsp;&nbsp;김준용</p>
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;🎓&nbsp;&nbsp;국립공주대학교 소프트웨어학과 (4학년)</p>
-    <hr>
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=FDFBF6&height=300&section=header&text=Hello!%20👋%20I'm%20JunYong&fontSize=60&fontColor=333333"/>
+    <hr> 
     <p align="center">📋 <strong>Certifications</strong></p>
     <ul>
       <li>정보처리기사 - 한국산업인력공단(HRDK)</li>
