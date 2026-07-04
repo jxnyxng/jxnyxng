@@ -1,19 +1,17 @@
 <table align="center">
   <tr>
-  <td valign="top" width="40%">
-    <h3 align="center"> 😃 About Me</h3><hr>
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=FDFBF6&height=150&section=header&text=Hello!%20👋%20I'm%20JunYong&fontSize=55&fontColor=#36454F"/>
-    <hr> 
+  <td valign="top" width="40%"><br>
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=FDFBF6&height=150&section=header&text=Hello!%20👋%20I'm%20JunYong&fontSize=55&fontColor=#36454F"/><br><hr><br>
     <p align="center">📋 <strong>Certifications</strong></p>
     <p align="center">
-        🪪  정보처리기사 - 한국산업인력공단(HRDK) <br>
-        📈  TOPCIT 625점(Lv.3) - 정보통신기획평가원(IITP)
-    </p>
+        🪪 정보처리기사 - 한국산업인력공단(HRDK) <br>
+        📖 TOPCIT 625점(Lv.3) - 정보통신기획평가원(IITP)
+    </p><br>
     <hr>
     <p align="center">📬 <strong>Contact</strong></p>
     <div align="center">
       <a href="mailto:kim0607mi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
-      <a href="https://kim0607mi.tistory.com/"><img src="https://img.shields.io/badge/tistory-FFFFFF?style=flat&logo=tistory&logoColor=orange"></a><br>
+      <a href="https://kim0607mi.tistory.com/"><img src="https://img.shields.io/badge/tistory-FFFFFF?style=flat&logo=tistory&logoColor=orange"></a>
     <!-- <img src="https://img.shields.io/github/watchers/jxnyxng/jxnyxng.svg"> -->
     </div> 
     <br>
@@ -48,7 +46,7 @@
       <p align="center">
         🥇 <strong>2026</strong> 교내 SW알고리즘경진대회 우수상 <br>
         🥉 <strong>2024</strong> 교내 SW알고리즘경진대회 장려상
-      </p>
+      </p><br>
     </td>
   </tr>
 </table>
