@@ -44,7 +44,7 @@
       <a href="https://solved.ac/kim0607mi">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kim0607mi" alt="Solved.ac프로필" width="95%">
       </a><hr>
-      <p align="center"> 🏆 <strong>Achievements</strong></p>
+      <p align="center"> 🏆 <strong>Awards</strong></p>
       <p align="center">
         🥇 <strong>2026</strong> 교내 SW알고리즘경진대회 우수상 <br>
         🥉 <strong>2024</strong> 교내 SW알고리즘경진대회 장려상
