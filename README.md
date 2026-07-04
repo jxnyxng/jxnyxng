@@ -12,8 +12,8 @@
     <hr>
     <p align="center">📬 <strong>Contact</strong></p>
     <div align="center">
-      <a href="mailto:kim0607mi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
-      <a href="https://kim0607mi.tistory.com/"><img src="https://img.shields.io/badge/tistory-FFFFFF?style=flat-square&logo=tistory&logoColor=orange"></a><br>
+      <a href="mailto:kim0607mi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
+      <a href="https://kim0607mi.tistory.com/"><img src="https://img.shields.io/badge/tistory-FFFFFF?style=flat&logo=tistory&logoColor=orange"></a><br>
     <!-- <img src="https://img.shields.io/github/watchers/jxnyxng/jxnyxng.svg"> -->
     </div> 
     <br>
