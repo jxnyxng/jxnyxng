@@ -4,8 +4,8 @@
     <img src="https://capsule-render.vercel.app/api?type=soft&color=FDFBF6&height=150&section=header&text=Hello!%20👋%20I'm%20JunYong&fontSize=55&fontColor=#36454F"/><br><hr><br>
     <p align="center">📋 <strong>Certifications</strong></p>
     <p align="center">
-        🪪 정보처리기사 - 한국산업인력공단(HRDK) <br>
-        📖 TOPCIT 625점(Lv.3) - 정보통신기획평가원(IITP)
+        🪪  정보처리기사 - 한국산업인력공단(HRDK) <br>
+        📖  TOPCIT 625점(Lv.3) - 정보통신기획평가원(IITP)
     </p><br>
     <hr>
     <p align="center">📬 <strong>Contact</strong></p>
