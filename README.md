@@ -1,12 +1,12 @@
-<table align="center" width="100%" style="border-collapse: collapse;">
+<table align="center" width="100%" style="border-collapse: collapse; max-width: 100%;">
   <tr>
     <td colspan="2" style="padding: 0; border: none;">
       <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none; margin: 0;">
         <tr style="border: none;">
-          <td width="90%" style="padding: 0; border: none;">
+          <td style="padding: 0; border: none; width: 100%;">
             <img src="https://capsule-render.vercel.app/api?type=soft&color=FDFBF6&height=60&section=header&text=Hello!%20👋%20I'm%20JunYong&fontSize=30&fontColor=#36454F" width="100%" style="display: block;"/>
           </td>
-          <td width="10%" align="center" valign="middle" style="padding: 10px 5px; border: none;">
+          <td align="center" valign="middle" style="padding: 0 10px; border: none; white-space: nowrap;">
             <a href="https://kim0607mi.tistory.com/"><img src="https://img.shields.io/badge/tistory-FFFFFF?style=flat&logo=tistory&logoColor=orange"></a><br>
             <a href="mailto:kim0607mi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
           </td>
@@ -15,13 +15,13 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="65%" valign="top">
-      <b><font size="4">📋 Certifications</font></b><br><br>
+    <td align="center" width="60%" valign="top">
+      <br><b><font size="4">📋 Certifications</font></b><br><br>
       정보처리기사 - 한국산업인력공단(HRDK) <br>
       TOPCIT 625점(Lv.3) - 정보통신기획평가원(IITP) <br><br>
     </td>
-    <td align="center" width="35%" valign="top" rowspan="2">
-      <b><font size="4">🛠️ Skills</font></b><br><br>
+    <td align="center" width="40%" valign="top" rowspan="2">
+      <br><b><font size="4">🛠️ Skills</font></b><br><br>
       <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"> 
       <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
       <br>
