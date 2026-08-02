@@ -1,26 +1,20 @@
-<table align="center" width="100%" style="border-collapse: collapse; max-width: 100%;">
+<table align="center" width="100%">
   <tr>
-    <td colspan="2" style="padding: 0; border: none;">
-      <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none; margin: 0;">
-        <tr style="border: none;">
-          <td style="padding: 0; border: none; width: 100%;">
-            <img src="https://capsule-render.vercel.app/api?type=soft&color=FDFBF6&height=60&section=header&text=Hello!%20👋%20I'm%20JunYong&fontSize=30&fontColor=#36454F" width="100%" style="display: block;"/>
-          </td>
-          <td align="center" valign="middle" style="padding: 0 10px; border: none; white-space: nowrap;">
-            <a href="https://kim0607mi.tistory.com/"><img src="https://img.shields.io/badge/tistory-FFFFFF?style=flat&logo=tistory&logoColor=orange"></a><br>
-            <a href="mailto:kim0607mi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
-          </td>
-        </tr>
-      </table>
+    <td width="75%" align="center" valign="middle">
+      <img src="https://capsule-render.vercel.app/api?type=soft&color=FDFBF6&height=60&section=header&text=Hello!%20👋%20I'm%20JunYong&fontSize=30&fontColor=#36454F" width="100%" />
+    </td>
+    <td width="25%" align="center" valign="middle">
+      <a href="https://kim0607mi.tistory.com/"><img src="https://img.shields.io/badge/tistory-FFFFFF?style=flat&logo=tistory&logoColor=orange"></a><br>
+      <a href="mailto:kim0607mi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
     </td>
   </tr>
   <tr>
-    <td align="center" width="60%" valign="top">
+    <td align="center" valign="top">
       <br><b><font size="4">📋 Certifications</font></b><br><br>
       정보처리기사 - 한국산업인력공단(HRDK) <br>
       TOPCIT 625점(Lv.3) - 정보통신기획평가원(IITP) <br><br>
     </td>
-    <td align="center" width="40%" valign="top" rowspan="2">
+    <td align="center" valign="top" rowspan="2">
       <br><b><font size="4">🛠️ Skills</font></b><br><br>
       <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"> 
       <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
@@ -44,9 +38,9 @@
   </tr>
   <tr>
     <td align="center" valign="top">
-      <b><font size="4">⚙️ Algorithm</font></b><br><br>
+      <br><b><font size="4">⚙️ Algorithm</font></b><br><br>
       <a href="https://solved.ac/kim0607mi">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kim0607mi" alt="Solved.ac프로필" width="45%">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kim0607mi" alt="Solved.ac프로필" width="25%">
       </a><br><br>
       🥇 <strong>2026</strong> SW알고리즘경진대회(교내) 우수상 <br>
       🥉 <strong>2024</strong> SW알고리즘경진대회(교내) 장려상 <br><br>
