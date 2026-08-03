@@ -72,7 +72,7 @@
     <img
       src="https://mazassumnida.wtf/api/v2/generate_badge?boj=kim0607mi"
       alt="Solved.ac 프로필"
-      width="25%"
+      width="30%"
     />
   </a>
   <br><br>
