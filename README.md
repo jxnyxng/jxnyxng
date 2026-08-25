@@ -23,9 +23,14 @@
   <tr>
     <td width="75%" align="center" valign="top">
       <br>
-      <b>💻 Projects</b>
+      <b>💻 Personal Project</b>
       <br><br>
-      <strong>(개인프로젝트) 경제 소식 대시보드</strong>(<a href="https://finnel.kr" target="_blank">finnel.kr</a>) [2026.07.01 ~ 현재]
+      <strong>경제 소식 대시보드</strong>(<a href="https://finnel.kr" target="_blank">finnel.kr</a>) [2026.07.01 ~ 현재]
+      <br><br>
+      <br>
+      <b>💻 Team Project</b>
+      <br><br>
+      <strong>사용자 맞춤형 식단 추천 AI 어플리케이션</strong> [2026.03.02 ~ 2026.06.26]
       <br><br>
     </td>
     <td width="25%" align="center" valign="top">
