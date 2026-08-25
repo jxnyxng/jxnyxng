@@ -25,7 +25,7 @@
       <br>
       <b>💻 Personal Project</b>
       <br><br>
-      <strong>경제 소식 대시보드</strong>(<a href="https://finnel.kr" target="_blank">finnel.kr</a>) [2026.07.01 ~ 현재]
+      <strong>경제 소식 대시보드</strong>(<a href="https://finnel.kr/today-flow" target="_blank">finnel.kr</a>) [2026.07.01 ~ 현재]
       <br><br>
       <br>
       <b>💻 Team Project</b>
