@@ -73,29 +73,4 @@
       <br><br>
     </td>
   </tr>
-
-  <!-- Certifications -->
-  <tr>
-    <td colspan="2" align="center" valign="middle">
-      <br>
-      <b>📋 Certifications</b>
-      <br><br>
-      정보처리기사 - 한국산업인력공단(HRDK) <br>
-      TOPCIT 625점(Lv.3) - 정보통신기획평가원(IITP)
-      <br><br>
-    </td>
-  </tr>
-
-  <!-- Education -->
-  <tr>
-    <td colspan="2" align="center" valign="middle">
-      <br>
-      <b>📚 Education</b>
-      <br><br>
-      25.06~25.07 대한상공회의소 ICT AWS 웹서비스 개발 <br>
-      25.09~26.01 코드트리 알고리즘 인재교육 (COEIC 3급) <br>
-      26.03~26.04 프로그래머스 LLM AI 에이전트 개발과정
-      <br><br>
-    </td>
-  </tr>
 </table>
