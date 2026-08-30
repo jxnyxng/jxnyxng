@@ -12,7 +12,7 @@
 ---
 
 ### 💻 Projects
-- 📈 **[Finnel.kr | 경제 소식 대시보드](https://finnel.kr/dashboard)** `Personal` | `2026.07 ~ 현재`
+- 📈 **경제 소식 대시보드** `Personal` | `2026.07 ~ 현재`
 - 🥗 **사용자 맞춤형 식단 추천 AI 어플리케이션** `Team` | `2026.03 ~ 2026.06`
 
 ---
