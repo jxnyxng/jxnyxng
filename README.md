@@ -21,9 +21,6 @@
 
 ### ⚙️ Algorithm
 <a href="https://solved.ac/profile/kim0607mi">
-  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=kim0607mi" height="90" alt="Solved.ac 프로필" />
+  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=kim0607mi" height="100" alt="Solved.ac 프로필" />
 </a>
-
-🥇 **2026** SW알고리즘경진대회(교내) 우수상 <br>
-🥉 **2024** SW알고리즘경진대회(교내) 장려상
 
