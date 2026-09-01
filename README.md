@@ -1,11 +1,11 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F8F1E5&height=60&section=header&text=Hello!%20👋%20I'm%20JunYong&fontSize=30&animation=twinkling&fontColor=2C3E50" width="100%" alt="Hello! I'm JunYong" />
+
 <div align="right">
   <a href="https://kim0607mi.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FFFFFF?style=flat&logo=tistory&logoColor=orange" alt="Tistory" /></a>
   <a href="mailto:kim0607mi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F8F1E5&height=60&section=header&text=Hello!%20👋%20I'm%20JunYong&fontSize=30&animation=twinkling&fontColor=2C3E50" width="100%" alt="Hello! I'm JunYong" />
 
 <br>
 
@@ -14,11 +14,5 @@
 | Languages | Backend & DB | Infra & Tools |
 | :---: | :---: | :---: |
 | <img src="https://go-skill-icons.vercel.app/api/icons?i=java,python" alt="Languages" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=spring,mysql" alt="Backend" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,aws,git,github" alt="Infra" /> |
-
-### ⚙️ Algorithm
-
-<a href="https://solved.ac/profile/kim0607mi">
-  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=kim0607mi" height="120" alt="Solved.ac 프로필" />
-</a>
 
 </div>
