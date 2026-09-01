@@ -7,8 +7,6 @@
   <a href="mailto:kim0607mi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
-<br>
-
 ### 🛠 Skills
 
 | Languages | Backend & DB | Infra & Tools |
